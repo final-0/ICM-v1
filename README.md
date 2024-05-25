@@ -11,10 +11,28 @@ This is the official implementation of the following papers.<br>
 ・Scalable Image Coding for Humans and Machines Using Feature Fusion Network
 ([arXiv](https://arxiv.org/abs/2405.09152))<br>
 
+---
+
 <div align="center">
   
 ### Installation
 </div>
+
+1. Clone this repository from GitHub.
+```
+git clone 
+```
+2. Change the current directory to the "ICM-v1" folder.
+```
+cd ICM-v1/
+```
+3. Install the required dependencies in the current directory.
+
+```
+pip3 install -r requirements.txt 
+```
+
+---
 
 <div align="center">
   
