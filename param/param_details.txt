@@ -1,0 +1,2 @@
+icm.pth : alpha=0.78, lambda=0.05
+ica.pth : alpha=0.78, lambda=0.05, m=4, m_lambda=0.01
