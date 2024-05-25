@@ -20,7 +20,7 @@ This is the official implementation of the following papers.<br>
 
 1. Clone this repository from GitHub.
 ```
-git clone 
+git clone https://github.com/final-0/ICM-v1.git
 ```
 2. Change the current directory to the "ICM-v1" folder.
 ```
