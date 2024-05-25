@@ -4,6 +4,9 @@
 ### Image Coding for Machines
 </div>
 
+---
+---
+
 This is the official implementation of the following papers.<br>
 <br>
 ・Image Coding for Machines with Edge Information Learning Using Segment Anything
