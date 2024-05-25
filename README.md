@@ -1,11 +1,11 @@
 <div align="center">
 
-### Scalable Image Coding for Humans and Machines<br>
-### Image Coding for Machines<br>
+### Scalable Image Coding for Humans and Machines
+### Image Coding for Machines
 </div>
 
-This is the official pytorch implementation of the following papers.
-This is the Pytorch repository of the papers<br>
+This is the official implementation of the following papers.<br>
+<br>
 ・Image Coding for Machines with Edge Information Learning Using Segment Anything
 ([arXiv](https://arxiv.org/abs/2403.04173))<br>
 ・Scalable Image Coding for Humans and Machines Using Feature Fusion Network
