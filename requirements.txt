@@ -4,3 +4,4 @@ numpy
 opencv-python
 Pillow
 compressai 
+timm
