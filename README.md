@@ -52,6 +52,10 @@ If you want to compress images for "Machines", run the following command :
 ``` 
 python3 coding_m.py --checkpoint param/icm.pth.tar --input image/input
 ```
+Add “--real” to the command to obtain a bit-stream:
+``` 
+python3 coding_m.py --checkpoint param/icm.pth.tar --input image/input --real
+```
 If you want to compress images for "Humans" & "Machines", run the following command :
 ``` 
 python3 coding_hm.py --checkpoint_m param/icm.pth.tar --checkpoint_a param/ica.pth.tar --input image/input
