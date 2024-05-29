@@ -37,6 +37,15 @@ pip3 install -r requirements.txt
 
 ---
 
+
+<div align="center">
+
+### Recommended Specs
+</div>
+
+
+---
+
 <div align="center">
   
 ### Usage
