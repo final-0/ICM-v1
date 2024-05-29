@@ -43,6 +43,7 @@ pip3 install -r requirements.txt
 ### Recommended Specs
 </div>
 
+For testing only, a GPU with about 11GB of memory is sufficient. (e.g. 1080ti, 2080ti)
 
 ---
 
