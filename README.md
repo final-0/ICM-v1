@@ -72,6 +72,10 @@ python3 coding_hm.py --checkpoint_m param/icm.pth.tar --checkpoint_a param/ica.p
 ```
 
 ### Reconstructed Samples
+
+<div align="center">
+  <img width="100%" src=assets/rec.png">
+</div>
 <!--
 <img src="assets/visual.png"  style="zoom: 33%;" />
 -->
