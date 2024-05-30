@@ -71,11 +71,14 @@ If you want to compress images for "Humans" & "Machines", run the following comm
 python3 coding_hm.py --checkpoint_m param/icm.pth.tar --checkpoint_a param/ica.pth.tar --input image/input
 ```
 
-### Reconstructed Samples
-
 <div align="center">
-  <img width="100%" src=assets/rec.png">
+  
+### Reconstructed Samples
 </div>
+
+
+<img width="100%" src="assets/rec.png">
+
 <!--
 <img src="assets/visual.png"  style="zoom: 33%;" />
 -->
