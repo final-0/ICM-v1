@@ -71,6 +71,9 @@ If you want to compress images for "Humans" & "Machines", run the following comm
 python3 coding_hm.py --checkpoint_m param/icm.pth.tar --checkpoint_a param/ica.pth.tar --input image/input
 ```
 
+---
+---
+
 <div align="center">
   
 ### Reconstructed Samples
