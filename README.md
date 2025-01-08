@@ -4,6 +4,11 @@
 ### Image Coding for Machines
 </div>
 
+<div align="center">
+  
+[ [project page](https://final-0.github.io/project1.html) ]
+</div>
+
 ---
 ---
 
@@ -21,13 +26,6 @@ This is the official implementation of the following papers.<br>
 
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2405.09152)
 [![arXiv](https://img.shields.io/badge/arXiv-2405.09152-b31b1b.svg)](https://arxiv.org/abs/2405.09152)
-
----
-
-<div align="center">
-  
-[ [project page](https://final-0.github.io/project1.html) ]
-</div>
 
 ---
 
